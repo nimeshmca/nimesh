@@ -1,9 +1,9 @@
-### Hi Developers, This is Farhan Ahmed 👋
+### Hi Developers, This is Nimesh Pate here..👋
 
-### Working with Accenture as Senior Software Engineer | BscIT Graduate | Experience in application development | C#, ASP.NET MVC5, ASP.NET Core MVC, ASP.NET Web API, Entity Framework, SQL Server, HTML, CSS, Bootstrap, JavaScrip, JQuery, Angular | Blogger| 3 Time MVP(Most Valuable Professional) award from CSharcorner.
+### Working with Accenture as Senior Software Engineer | MCA | Experience in application development | C#, ASP.NET MVC5, ASP.NET Core MVC, ASP.NET Web API, Entity Framework, SQL Server, HTML, CSS, Bootstrap, JavaScrip, JQuery, Angular | Blogger| many awards from CSharcorner.
 
 ### Connect with me
-### [![facebook](https://user-images.githubusercontent.com/54549934/93971143-23240280-fd8d-11ea-859d-1e69485789de.png)](https://www.facebook.com/profile.php?id=1634842162) [![Linkedin](https://user-images.githubusercontent.com/54549934/93971146-24552f80-fd8d-11ea-9afb-d114a8ed7ba2.png)](https://www.linkedin.com/in/farhan-ahmed-ba8751141/) [![Twitter](https://user-images.githubusercontent.com/54549934/93971135-20c1a880-fd8d-11ea-93ea-7b421d8f4d6a.png)](https://twitter.com/farhan10786) [![CSharpcorner](https://user-images.githubusercontent.com/54549934/93971141-21f2d580-fd8d-11ea-9c4c-ab777bae1758.png)](https://www.c-sharpcorner.com/members/farhan-ahmed24) [![HakerRank](https://user-images.githubusercontent.com/54549934/93971144-23bc9900-fd8d-11ea-9ac8-16bd132011a1.png)](https://www.hackerrank.com/farhan1086) [![TechGig](https://user-images.githubusercontent.com/54549934/93971462-d7be2400-fd8d-11ea-91b2-8abfaec3e875.png)](https://www.techgig.com/farhanahmed6)
+### [![facebook](https://user-images.githubusercontent.com/54549934/93971143-23240280-fd8d-11ea-859d-1e69485789de.png)](https://www.facebook.com/nimeshpatel.mca) [![Linkedin](https://user-images.githubusercontent.com/54549934/93971146-24552f80-fd8d-11ea-9afb-d114a8ed7ba2.png)](https://www.linkedin.com/in/nimeshmca/) [![Twitter](https://user-images.githubusercontent.com/54549934/93971135-20c1a880-fd8d-11ea-93ea-7b421d8f4d6a.png)](https://twitter.com/nimeshmca) [![CSharpcorner](https://user-images.githubusercontent.com/54549934/93971141-21f2d580-fd8d-11ea-9c4c-ab777bae1758.png)](https://www.c-sharpcorner.com/members/nimesh-patel2)
 
 ### Tools and Technology
 
@@ -25,9 +25,4 @@
 *	Co-ordinate and collaborate with team members and quickly fit into exiting team.
 *	Effective communicator with excellent relationship building and interpersonal skills.
 
-### RECOGNITION AND AWARDS  
 
-*	Most Valuable Professional (MVP) from C# corner 2018, 2019 and 2020.
-*	Listed among the top 20 C# Corner members and authors of 2019.
-*	Listed among the top 10 C# Corner featured members of 2019.
-*	Best team of the year from Sprintzeal Pvt Ltd in 2017.
